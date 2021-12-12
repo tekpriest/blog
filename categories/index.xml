@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Koderant Blog</title>
+    <link>https://en1tan.github.io/categories/</link>
+    <description>Recent content in Categories on Koderant Blog</description>
+    <image>
+      <url>https://avatars.githubusercontent.com/u/16443589?v=4</url>
+      <link>https://avatars.githubusercontent.com/u/16443589?v=4</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>[Koderant Blog](https://koderant.dev)</copyright><atom:link href="https://en1tan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

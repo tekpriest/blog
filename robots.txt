@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://en1tan.github.io/sitemap.xml
