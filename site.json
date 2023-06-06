@@ -1,0 +1,14 @@
+{
+  "title": "Tech Priest",
+  "subtitle": "Senior Software Engineer at Onah Africa",
+  "owner": {
+    "name": "Asaju E. Michael",
+    "email": "asajuenitan@gmail.com"
+  },
+  "seo": {
+    "title": "Tech Priest",
+    "description": "Blog of a software engineer",
+    "author": "Asaju E. Michael",
+    "keywords": ["blog", "developer", "engineering"]
+  }
+}
